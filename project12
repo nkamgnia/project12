@@ -1,0 +1,7 @@
+1-script is a executable file where we can place a command to acomplish a specific task not manuel but automaticaly 
+2-to run a script how does not have executable permission we just have to type in the end of script ( ./bash)
+3- for loop is user to iterate thru alist of items for repetitive tasks 
+4- to close the if stement use  (fi) in the end of the if stament
+5-IM still learning how to use awk and the sed command but does command ther are very helfull in the script 
+9- git is a distributed version control system  created by linux tovarl to allow developper to chaire the are work1
+10 
